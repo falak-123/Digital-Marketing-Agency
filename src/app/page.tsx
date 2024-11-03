@@ -119,9 +119,9 @@ export default function Home() {
           </div>
         </div>
         <div className="flex items-center gap-x-4">
-          <Link href="tel:519400200" className="hidden lg:flex">
+          <Link href="tel:+923176445303" className="hidden lg:flex">
             <button className="px-4 py-2 rounded-md flex items-center gap-x-3">
-              (519)-400-200
+             (+92)317-6445303
             </button>
           </Link>
 
