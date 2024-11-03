@@ -37,13 +37,13 @@ export default function Home() {
         "Boost your brand's online presence with our social media marketing services",
     },
     {
-      icon: "/images/s_3.png",
+      icon: "/Images/s_3.png",
       title: "Social Media Marketing",
       description:
         "Interact with your customers and increase sales with our email marketing services",
     },
     {
-      icon: "/images/s_4.png",
+      icon: "/Images/s_4.png",
       title: "Email Marketing",
       description:
         "With our content creation services, we help businesses drive results",
